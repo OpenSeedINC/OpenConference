@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Graphics/SWAAG Banner.png</file>
+        <file>Policy.qml</file>
+        <file>Login.qml</file>
+        <file>Graphics/border.png</file>
+        <file>Graphics/border.svg</file>
+        <file>Graphics/UNTSquare.jpg</file>
+        <file>Graphics/bg.svg</file>
+        <file>Graphics/MSC.jpg</file>
+        <file>Graphics/CourtHouse.jpg</file>
+        <file>Graphics/gps.svg</file>
+        <file>Graphics/info.svg</file>
+        <file>Graphics/navigation-menu.svg</file>
+        <file>Graphics/help.svg</file>
+        <file>Graphics/alderman.jpg</file>
+        <file>Graphics/account.svg</file>
+        <file>Graphics/calendar-today.svg</file>
+        <file>SideSlide.qml</file>
+        <file>Menu.qml</file>
+        <file>Info.qml</file>
+        <file>Graphics/seal.png</file>
+        <file>Graphics/unt-1890-banner.svg</file>
+        <file>locations.js</file>
+        <file>Graphics/stock_website.svg</file>
+        <file>Schedule.qml</file>
+        <file>Credits.qml</file>
+        <file>Locate.qml</file>
+        <file>Background.qml</file>
+        <file>Graphics/ESSATJPG</file>
+    </qresource>
+</RCC>
